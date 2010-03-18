@@ -10,7 +10,7 @@ use File::Temp qw(tempdir);
 
 use Git::CPAN::Patch::Import;
 
-my $distribution = 'Acme-Magic-Pony';
+my $distribution = 'Acme-Pony';
 
 my $tempdir = tempdir( CLEANUP => 1 );
 
