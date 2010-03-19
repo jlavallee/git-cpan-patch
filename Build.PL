@@ -14,6 +14,7 @@ my $builder = Module::Build->new(
         'Pod::Usage'               => 0,
         'CPANPLUS'                 => '0.84',
         'File::chdir'              => '0.08',  # need 0.08 so it dies die if we can't $CWD = 'foo'
+        'Capture::Tiny'            => '0.07',
         'File::Spec'               => 0,
         'File::Path'               => 0,
         'File::chmod'              => 0,
