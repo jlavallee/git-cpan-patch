@@ -7,3 +7,5 @@ META.yml
 Makefile.PL
 Git-CPAN-Patch-*.tar.gz
 gitpan-build
+MYMETA.yml
+*.log
